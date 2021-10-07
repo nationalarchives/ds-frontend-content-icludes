@@ -1,0 +1,3 @@
+<div id="breadcrumbdiv"><a href="http://www.nationalarchives.gov.uk"><img src="/pathways/images/micrositea.gif" width="44" height="30" alt="The National Archives" align="middle" class="blackbreadcrumb" border="0"></a><a href="/" class="bbreadcrumb">The National Archives</a>
+
+<span class="bbreadcrumb"> > </span><a href="/exhibitions/" class="bbreadcrumb">Exhibitions</a><span class="bbreadcrumb"> > </span><a href="/spies/" class="bbreadcrumb">Secrets and Spies</a></div>

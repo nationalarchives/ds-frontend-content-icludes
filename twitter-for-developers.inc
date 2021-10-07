@@ -1,0 +1,3 @@
+
+<h2>For developers</h2>
+<p>When accessing raw data captured from the Twitter Application Programming Interface (API) you can choose either XML or JSON. This is because the data format the API presents has changed over the years. For captures made prior to September 2013, only XML is available, while those made after September 2013 are available in both JSON and XML, this XML having been created from the JSON to allow rendering into our Twitter display interface.</p>
