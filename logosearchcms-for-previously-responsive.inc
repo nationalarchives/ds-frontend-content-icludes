@@ -519,7 +519,7 @@ _::-ms-reveal, #bridging-mega-menu-pull-down button {
     <div id="bridging-inner-positioner">
     <div id="bridging-banner">
         <div id="bridging-logo">
-            <a href="/default.htm" title="The National Archives">
+            <a href="/" title="The National Archives">
                 <img src="../../images/global/logo-white.png" alt="The National Archives">
             </a>
         </div>
