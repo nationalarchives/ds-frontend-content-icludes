@@ -2,7 +2,7 @@
 <div id="searchTools">
         <div id="linksToSearchForms"><a href="/search/results">Search the website</a> | <a href="http://www.discovery.nationalarchives.gov.uk">Search the catalogue</a></div>
     <div id="tnaSearchWrapper">
-         <div id="userControls"><a href="/legal/cookies.htm">Cookie policy</a> | <div id="hdr-personalisation"><a href="/Search/Login.aspx">MyPage (not signed in)</a></div></div>
+         <div id="userControls"><a href="/legal/cookies/">Cookie policy</a> | <div id="hdr-personalisation"><a href="/Search/Login.aspx">MyPage (not signed in)</a></div></div>
         <div id="tnaSearchWrapperInner">   
         <form action="/search/results" method="get" id="globalSearch">
             <label for="tnaSearch">Search the archives</label>
@@ -42,9 +42,9 @@
             <h4>Legal</h4>
             <ul>              
                 <li><a href="/legal/">Terms of use<span class="red-arrow"></span></a></li>
-                <li><a href="/legal/cookies.htm">Cookies<span class="red-arrow"></span></a></li>
-                <li><a href="/foi\default.htm">Freedom of information<span class="red-arrow"></span></a></li>
-		<li><a href="/about/transparency.htm">Transparency<span class="red-arrow"></span></a></li>
+                <li><a href="/legal/cookies/">Cookies<span class="red-arrow"></span></a></li>
+                <li><a href="/about/freedom-of-information/">Freedom of information<span class="red-arrow"></span></a></li>
+		<li><a href="/about/our-role/transparency/">Transparency<span class="red-arrow"></span></a></li>
             </ul>
         </div>
 
@@ -64,9 +64,8 @@
             <h4>Site help</h4>
             <ul>
 		<li><a href="/help/">Help<span class="red-arrow"></span></a></li>
-		<li><a href="/help/atoz.htm">Website A-Z index<span class="red-arrow"></span></a></li>
-                <li><a href="/help/accessibility.htm">Accessibility<span class="red-arrow"></span></a></li>
-		<li><a href="/help/sitemap.htm">Site map<span class="red-arrow"></span></a></li>
+		<li><a href="/help/a-to-z/">Website A-Z index<span class="red-arrow"></span></a></li>
+                <li><a href="/help/web-accessibility/">Accessibility<span class="red-arrow"></span></a></li>
             </ul>
         </div>
 

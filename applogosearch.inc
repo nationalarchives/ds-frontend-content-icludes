@@ -15,7 +15,7 @@
 <div id="searchTools">
         <div id="linksToSearchForms"><a href="/search/results">Search the website</a> | <a href="http://www.discovery.nationalarchives.gov.uk">Search the catalogue</a></div>
     <div id="tnaSearchWrapper">
-        <!-- div id="userControls"><a href="/legal/cookies.htm">Cookie policy</a> | <div id="hdr-personalisation"><a href="/Search/Login.aspx">MyPage (not signed in)</a></div></div -->
+        <!-- div id="userControls"><a href="/legal/cookies/">Cookie policy</a> | <div id="hdr-personalisation"><a href="/Search/Login.aspx">MyPage (not signed in)</a></div></div -->
         <div id="tnaSearchWrapperInner">   
         <form action="/search/results" method="get" id="globalSearch">
             <label for="tnaSearch">Search the archives</label>

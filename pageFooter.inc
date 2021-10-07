@@ -305,7 +305,7 @@ margin-top: 20px;
         <ul>
             <li><a href="/help/">Help</a></li>
             <li><a href="/help/a-to-z/">Website A-Z index</a></li>
-            <li><a href="/help/accessibility.htm">Accessibility</a></li>
+            <li><a href="/help/web-accessibility/">Accessibility</a></li>
         </ul>
      </div>
 
@@ -326,11 +326,11 @@ margin-top: 20px;
                 <h4>Legal</h4>
         <ul>
             <li><a href="/legal/">Terms of use</a></li>
-							<li><a href="/legal/privacy.htm">Privacy policy</a></li>
-            <li><a href="/legal/cookies.htm">Cookies</a></li>
+							<li><a href="/legal/privacy-policy">Privacy policy</a></li>
+            <li><a href="/legal/cookies/">Cookies</a></li>
             <li><a href="/about/freedom-of-information/">Freedom of Information</a></li>
 							<li><a href="/about/our-role/transparency/">Transparency</a></li>
-                        <li><a href="/legal/our-fees.htm">Our fees</a></li>
+                        <li><a href="/legal/our-fees/">Our fees</a></li>
 
         </ul>
       </div>
