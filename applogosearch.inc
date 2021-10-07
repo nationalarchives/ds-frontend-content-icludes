@@ -5,7 +5,7 @@
 	<script src="/script/hdr-search-utils.js" type="text/javascript"></script>
 	
 	<div id="hdr-logo-holder">
-	<a href="/default.htm" title="The National Archives"><img src="/images/global/hdr-logo.gif" alt="The National Archives" title="The National Archives" /></a>
+	<a href="/" title="The National Archives"><img src="/images/global/hdr-logo.gif" alt="The National Archives" title="The National Archives" /></a>
 	</div>
 	<ul class="hidden">
 		<li><a href="#content" accesskey="s">Skip to Content</a></li>
