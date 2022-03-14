@@ -4,7 +4,7 @@
           <div id="mega-menu-mobile">
       <button aria-label="Toggle menu"></button>
     </div>
-    <a href="http://www.nationalarchives.gov.uk" title="Go to The National Archives homepage"> <img src="/images/global/logo-white.png" alt="The National Archives" id="logo"/> </a>
+    <a href="https://www.nationalarchives.gov.uk" title="Go to The National Archives homepage"> <img src="/images/global/logo-white.png" alt="The National Archives" id="logo"/> </a>
     </article>
       <article class="col starts-at-full ends-at-half clr">
         <form action="/search/results" method="get" id="mobileGlobalSearch">
@@ -16,7 +16,7 @@
             <div id="changeDestination">
               <input checked type="radio" class="mobileSearchDestinationOption" name="searchDestination" id="websiteSearch" data-target="/search/results" data-placeholder="Search our website..." data-fieldName="_q"/>
               <label for="websiteSearch">Search our website</label>
-              <input type="radio" class="mobileSearchDestinationOption" name="searchDestination" id="catalogueSearch" data-target="http://discovery.nationalarchives.gov.uk/results/r" data-placeholder="Search our records..." data-fieldName="_q" />
+              <input type="radio" class="mobileSearchDestinationOption" name="searchDestination" id="catalogueSearch" data-target="https://discovery.nationalarchives.gov.uk/results/r" data-placeholder="Search our records..." data-fieldName="_q" />
               <label for="catalogueSearch">Search our records</label>
             </div>
           </div>
@@ -30,7 +30,7 @@
           </form>
           <ul id="search-options">
             <li><a href="#" class="formDestinationChanger" data-target="/search/results" data-placeholder="Search our website..." data-fieldName="_q" role="button" aria-label="Change form destination to search the website">Search our website</a></li>
-            <li><a href="#" class="formDestinationChanger" data-target="http://discovery.nationalarchives.gov.uk/results/r" data-placeholder="Search our records..." data-fieldName="_q" role="button" aria-label="Change form destination to search the catalogue">Search our records</a></li>
+            <li><a href="#" class="formDestinationChanger" data-target="https://discovery.nationalarchives.gov.uk/results/r" data-placeholder="Search our records..." data-fieldName="_q" role="button" aria-label="Change form destination to search the catalogue">Search our records</a></li>
           </ul>
         </div>
       </article>
