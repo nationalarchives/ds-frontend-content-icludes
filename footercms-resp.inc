@@ -51,9 +51,10 @@
 <div id="ftr-websites">
             <h4>Websites</h4>
             <ul>
- 		<li><a href="http://blog.nationalarchives.gov.uk/">Blog<span class="red-arrow"></span></a></li>
-		<li><a href="http://media.nationalarchives.gov.uk/">Podcasts and videos<span class="red-arrow"></span></a></li>
-                <li><a href="http://www.legislation.gov.uk/">Legislation.gov.uk<span class="red-arrow"></span></a></li>
+ 		<li><a href="https://blog.nationalarchives.gov.uk/">Blog<span class="red-arrow"></span></a></li>
+		<li><a href="https://media.nationalarchives.gov.uk/">Podcasts and videos<span class="red-arrow"></span></a></li>
+                <li><a href="https://www.legislation.gov.uk/">Legislation.gov.uk<span class="red-arrow"></span></a></li>
+            <li><a href="https://caselaw.nationalarchives.gov.uk/">Find case law</a></li>
                 <li><a href="https://www.gov.uk/" target="blank">GOV.UK<span class="red-arrow"></span></a></li>
 
             </ul>
