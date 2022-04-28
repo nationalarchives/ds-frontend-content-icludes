@@ -40,7 +40,7 @@
             <li><a href="https://media.nationalarchives.gov.uk/">Podcasts and videos</a></li>
             <li><a href="/webarchive/">UK Government Web Archive</a></li>
             <li><a href="https://www.legislation.gov.uk/" target="_blank" title="External website - link opens in a new window">Legislation.gov.uk</a></li>
-            <li><a href="https://caselaw.nationalarchives.gov.uk/" target="_blank" title="External website - link opens in a new window">Find case law</a></li>
+            <li><a href="https://caselaw.nationalarchives.gov.uk/">Find case law</a></li>
             <li><a href="https://www.thegazette.co.uk/"target="_blank" title="External website - link opens in a new window">The Gazette</a></li>
         </ul>
       </div>
